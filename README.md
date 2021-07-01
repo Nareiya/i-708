@@ -4,6 +4,9 @@
 現在、就職活動中でもあります。  
 **逃した魚は大きかった**と思われるように、日々研鑽を積んでおります。
 
+デプロイ済みアプリ
+[web-app](https://github.com/i-708/web-app) -> デプロイ先は[こちら](https://count-up-game.herokuapp.com/)
+
 [![Badge](https://cp-logo.vercel.app/atcoder/in708?logo=true)](https://atcoder.jp/users/in708)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=i-708&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
