@@ -4,8 +4,7 @@
 現在、就職活動中でもあります。  
 **逃した魚は大きかった**と思われるように、日々研鑽を積んでおります。
 
-デプロイ済みアプリ
-[web-app](https://github.com/i-708/web-app) -> デプロイ先は[こちら](https://count-up-game.herokuapp.com/)
+## Status
 
 [![Badge](https://cp-logo.vercel.app/atcoder/in708?logo=true)](https://atcoder.jp/users/in708)
 
@@ -18,3 +17,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-708&layout=compact&theme=gruvbox" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=in708&layout=compact&theme=gruvbox" />
+</a>
+
+## Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-708&repo=web-app&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
