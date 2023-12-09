@@ -1,8 +1,7 @@
-# What is i-708?
+# What is Nareiya?
 
 ## Status
 
-[![Badge](https://cp-logo.vercel.app/atcoder/in708?logo=true)](https://atcoder.jp/users/in708)
 ![profile-counter](https://komarev.com/ghpvc/?username=i-708&color=grey)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=i-708&theme=gruvbox&title=Joined2020,Commit,PullRequest,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
